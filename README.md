@@ -8,4 +8,4 @@ View the site at: https://vikiana-jwli.netlify.app
 
 ## How It's Made
 
-Tech used: HTML, CSS, JavaScript
+Tech used: HTML & CSS
